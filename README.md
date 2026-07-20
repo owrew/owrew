@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=230&section=header&text=Awais%20Rafaqat&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Automation%20%26%20AI%20Engineering&descAlignY=58&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=170&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=650&lines=Information+Technology+Student;Full-Stack+%26+Automation+Developer;Arabic-First+RTL+Web+Applications;AI-Assisted+Engineering+Workflows" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=46&duration=2500&pause=999999&color=1E3C72&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Awais+Rafaqat" alt="Awais Rafaqat" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=19&pause=1000&color=2A5298&center=true&vCenter=true&width=650&lines=Information+Technology+Student;Full-Stack+%26+Automation+Developer;Arabic-First+RTL+Web+Applications;AI-Assisted+Engineering+Workflows" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=owrew&color=2a5298&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=owrew&color=2a5298&style=flat&label=PROFILE+VIEWS)
 
 </div>
 
@@ -16,17 +18,17 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awaisalirafaqat/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ow4rw/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awaisalirafaqat/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ow4rw/)
 
 <!--
-  Add more socials below as you create them — just uncomment and fill in the link.
-  Keeping these as real badges (not plain text) helps crawlers follow them as proper links.
+  Add more socials below — uncomment and fill in the link once you have one.
+  Kept as real badge links (not plain text) so crawlers follow them properly.
 
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2A5298?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat&logo=x&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2A5298?style=flat&logo=googlechrome&logoColor=white)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](#)
 -->
 
 </div>
@@ -47,10 +49,10 @@ I design and ship complete systems end to end — from database schema to UI to 
 
 <div align="center">
 
-![English](https://img.shields.io/badge/English-Fluent-2a5298?style=flat-square)
-![Arabic](https://img.shields.io/badge/Arabic-Fluent-2a5298?style=flat-square)
-![Urdu](https://img.shields.io/badge/Urdu-Native-2a5298?style=flat-square)
-![IELTS](https://img.shields.io/badge/IELTS-7.5%20(C1)-4CAF50?style=flat-square)
+![English](https://img.shields.io/badge/English-Fluent-1e3c72?style=flat)
+![Arabic](https://img.shields.io/badge/Arabic-Fluent-1e3c72?style=flat)
+![Urdu](https://img.shields.io/badge/Urdu-Native-1e3c72?style=flat)
+![IELTS](https://img.shields.io/badge/IELTS-7.5%20(C1)-2a5298?style=flat)
 
 </div>
 
@@ -60,20 +62,41 @@ I design and ship complete systems end to end — from database schema to UI to 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,latex,react,nodejs,express,tailwind,vite,mysql,postgres,docker,git,github&theme=dark" />
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Automation & Documents**
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![python-docx](https://img.shields.io/badge/python--docx-3776AB?style=flat&logo=python&logoColor=white)
+
+**Tooling**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-AI_Agent-6E56CF?style=flat&logo=anthropic&logoColor=white)
 
 </div>
-
-<br/>
-
-| Category | Stack |
-|---|---|
-| **Languages** | TypeScript · JavaScript · Python · SQL · LaTeX |
-| **Frontend** | React 19 · Tailwind CSS · Vite · Radix UI |
-| **Backend** | Node.js · Express · tRPC · Drizzle ORM |
-| **Databases** | MySQL · PostgreSQL |
-| **Automation & PDF/Docs** | Playwright (Chromium) · python-docx · scripted document pipelines |
-| **DevOps / Tooling** | Docker · Railway · Git & GitHub · AI coding agents (Claude Code) |
 
 ---
 
@@ -81,10 +104,12 @@ I design and ship complete systems end to end — from database schema to UI to 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=owrew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owrew&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=owrew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owrew&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 <img src="https://streak-stats.demolab.com/?user=owrew&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=owrew&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -94,13 +119,17 @@ I design and ship complete systems end to end — from database schema to UI to 
 
 <div align="center">
 
-<a href="https://github.com/owrew/ConvoVault">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=owrew&repo=ConvoVault&theme=tokyonight&hide_border=true" />
-</a>
+### [ConvoVault](https://github.com/owrew/ConvoVault)
+
+![Stars](https://img.shields.io/github/stars/owrew/ConvoVault?style=flat&color=1e3c72&label=%E2%98%85%20stars)
+![Top Language](https://img.shields.io/github/languages/top/owrew/ConvoVault?style=flat&color=2a5298)
+![Last Commit](https://img.shields.io/github/last-commit/owrew/ConvoVault?style=flat&color=1e3c72)
+
+**→ [View Repository](https://github.com/owrew/ConvoVault)**
 
 </div>
 
-> More public repositories will be pinned here as they're released.
+> More public repositories will be featured here as they're released.
 
 ---
 
