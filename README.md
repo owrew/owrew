@@ -117,19 +117,11 @@ I design and ship complete systems end to end — from database schema to UI to 
 
 ## 📌 Featured Work
 
-<div align="center">
+- **[ConvoVault](https://github.com/owrew/ConvoVault)** turns supported AI chat exports and local transcripts into searchable Markdown notes and linked maps in Obsidian. [Project page](https://owrew.github.io/projects/convovault/)
+- **[Aster Harbor](https://github.com/owrew/aster-harbor-x)** is a Chromium browser extension that collects selected X conversation links and lets you download available videos individually.
+- **[Focus Goblu](https://github.com/owrew/focus-goblu)** pairs a Windows desktop focus companion with a standalone focus timer for Chrome and Edge.
 
-### [ConvoVault](https://github.com/owrew/ConvoVault)
-
-![Stars](https://img.shields.io/github/stars/owrew/ConvoVault?style=flat&color=1e3c72&label=%E2%98%85%20stars)
-![Top Language](https://img.shields.io/github/languages/top/owrew/ConvoVault?style=flat&color=2a5298)
-![Last Commit](https://img.shields.io/github/last-commit/owrew/ConvoVault?style=flat&color=1e3c72)
-
-**→ [View Repository](https://github.com/owrew/ConvoVault)**
-
-</div>
-
-> More public repositories will be featured here as they're released.
+[Visit my portfolio](https://owrew.github.io/)
 
 ---
 
